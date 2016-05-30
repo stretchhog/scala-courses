@@ -1,4 +1,4 @@
-package week4
+package a.principles.week4
 
 // Peano numbers
 abstract class Nat {

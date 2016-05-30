@@ -1,4 +1,4 @@
-import week4._
+import a.principles.week4._
 
 def nth[T](n: Int, xs: List[T]): T =
   if (xs.isEmpty) throw new IndexOutOfBoundsException

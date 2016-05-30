@@ -1,4 +1,4 @@
-import week4._
+import a.principles.week4._
 
 def show(e: Expr): String = e match {
   case Number(x) => x.toString

@@ -1,4 +1,4 @@
-package week3
+package a.principles.week3
 
 /**
   * Created by Tim.van.Cann on 25-5-2016.
